@@ -1,0 +1,24 @@
+# Logs
+npm-debug.log*
+logs/*
+
+# Coverage directory
+coverage
+
+# Dependency directory
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Build output directory
+dist
+
+# Editors
+.idea
+.vscode
+
+# Others
+.DS_Store
+tmp
+!.gitkeep
